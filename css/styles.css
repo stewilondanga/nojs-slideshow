@@ -39,12 +39,12 @@ input:checked+.slide {
   transition: transform 0.5s ease-in-out;
 }
 
-/*input:checked + .slide .slide__content {
+input:checked+.slide .slide__content {
   width: 100%;
   display: block;
 }
 
-.slide {
+/*.slide {
   transform: translateX(-100%);
   position: absolute;
   width: 50%;
