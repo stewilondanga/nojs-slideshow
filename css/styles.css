@@ -200,12 +200,12 @@ label:nth-child(10) {
   border-bottom-color: #C9283E;
 }
 
-/*label:nth-child(13) {
+label:nth-child(13) {
   left: calc(50% + (4 * (50% / 5)));
   border-bottom-color: #F0433A;
 }
 
-@keyframes fade-in {
+/*@keyframes fade-in {
   0% {
     opacity: 0;
   }
