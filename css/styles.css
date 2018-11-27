@@ -174,12 +174,13 @@ label {
   text-transform: uppercase;
 }
 
-/*label:hover {
+label:hover {
   cursor: pointer;
   color: #FFF;
   border-bottom: solid 4px #FFF;
 }
-label:nth-child(1) {
+
+/*label:nth-child(1) {
   left: calc(50% + (0 * (50% / 5)));
   border-bottom-color: #2E112D;
 }
