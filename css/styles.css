@@ -34,11 +34,12 @@ input {
   display: none;
 }
 
-/*input:checked + .slide {
+input:checked+.slide {
   transform: translateX(0px);
   transition: transform 0.5s ease-in-out;
 }
-input:checked + .slide .slide__content {
+
+/*input:checked + .slide .slide__content {
   width: 100%;
   display: block;
 }
