@@ -147,7 +147,7 @@ input:checked+.slide .slide__content {
   background-position: center;
 }
 
-/*.slide:nth-child(15):after {
+.slide:nth-child(15):after {
   position: absolute;
   margin: auto;
   top: 0px;
@@ -158,7 +158,7 @@ input:checked+.slide .slide__content {
   height: 100px;
 }
 
-label {
+/*label {
   box-sizing: border-box;
   color: #AAA;
   font-weight: bold;
