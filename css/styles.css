@@ -190,15 +190,17 @@ label:nth-child(4) {
   border-bottom-color: #540032;
 }
 
-/*label:nth-child(7) {
+label:nth-child(7) {
   left: calc(50% + (2 * (50% / 5)));
   border-bottom-color: #820333;
 }
+
 label:nth-child(10) {
   left: calc(50% + (3 * (50% / 5)));
   border-bottom-color: #C9283E;
 }
-label:nth-child(13) {
+
+/*label:nth-child(13) {
   left: calc(50% + (4 * (50% / 5)));
   border-bottom-color: #F0433A;
 }
