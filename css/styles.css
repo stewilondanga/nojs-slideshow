@@ -86,13 +86,14 @@ input:checked+.slide .slide__content {
   height: 100px;
 }
 
-/*.slide:nth-child(6) {
+.slide:nth-child(6) {
   background: url("https://placehold.it/2000x2500/540032/fff?text=2");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
 }
-.slide:nth-child(6):after {
+
+/*.slide:nth-child(6):after {
   position: absolute;
   margin: auto;
   top: 0px;
