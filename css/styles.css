@@ -44,7 +44,7 @@ input:checked+.slide .slide__content {
   display: block;
 }
 
-/*.slide {
+.slide {
   transform: translateX(-100%);
   position: absolute;
   width: 50%;
@@ -52,7 +52,8 @@ input:checked+.slide .slide__content {
   background-size: 50% 100%;
   transition: transform 0.5s ease-in-out;
 }
-.slide__content {
+
+/*.slide__content {
   box-sizing: border-box;
   height: calc(100% - 60px);
   overflow: auto;
