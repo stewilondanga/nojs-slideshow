@@ -205,7 +205,7 @@ label:nth-child(13) {
   border-bottom-color: #F0433A;
 }
 
-/*@keyframes fade-in {
+@keyframes fade-in {
   0% {
     opacity: 0;
   }
@@ -219,7 +219,7 @@ label:nth-child(13) {
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
