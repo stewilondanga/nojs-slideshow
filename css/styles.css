@@ -53,7 +53,7 @@ input:checked+.slide .slide__content {
   transition: transform 0.5s ease-in-out;
 }
 
-/*.slide__content {
+.slide__content {
   box-sizing: border-box;
   height: calc(100% - 60px);
   overflow: auto;
@@ -67,7 +67,8 @@ input:checked+.slide .slide__content {
   animation-iteration-count: 1;
   opacity: 1;
 }
-.slide:nth-child(3) {
+
+/*.slide:nth-child(3) {
   background: url("https://placehold.it/2000x2500/2E112D/fff?text=1");
   background-repeat: no-repeat;
   background-size: 100%;
