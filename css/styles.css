@@ -158,7 +158,7 @@ input:checked+.slide .slide__content {
   height: 100px;
 }
 
-/*label {
+label {
   box-sizing: border-box;
   color: #AAA;
   font-weight: bold;
@@ -173,7 +173,8 @@ input:checked+.slide .slide__content {
   bottom: 5px;
   text-transform: uppercase;
 }
-label:hover {
+
+/*label:hover {
   cursor: pointer;
   color: #FFF;
   border-bottom: solid 4px #FFF;
