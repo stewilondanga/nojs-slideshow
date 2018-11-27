@@ -122,13 +122,14 @@ input:checked+.slide .slide__content {
   height: 100px;
 }
 
-/*.slide:nth-child(12) {
+.slide:nth-child(12) {
   background: url("https://placehold.it/2000x2500/C9283E/fff?text=4");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: center;
 }
-.slide:nth-child(12):after {
+
+/*.slide:nth-child(12):after {
   position: absolute;
   margin: auto;
   top: 0px;
