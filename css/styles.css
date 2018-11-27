@@ -185,11 +185,12 @@ label:nth-child(1) {
   border-bottom-color: #2E112D;
 }
 
-/*label:nth-child(4) {
+label:nth-child(4) {
   left: calc(50% + (1 * (50% / 5)));
   border-bottom-color: #540032;
 }
-label:nth-child(7) {
+
+/*label:nth-child(7) {
   left: calc(50% + (2 * (50% / 5)));
   border-bottom-color: #820333;
 }
